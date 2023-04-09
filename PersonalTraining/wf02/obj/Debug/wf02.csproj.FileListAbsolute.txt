@@ -1,0 +1,11 @@
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\bin\Debug\wf02.exe.config
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\bin\Debug\wf02.exe
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\bin\Debug\wf02.pdb
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\obj\Debug\wf02.csproj.AssemblyReference.cache
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\obj\Debug\wf02.csproj.SuggestedBindingRedirects.cache
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\obj\Debug\wf02.Form1.resources
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\obj\Debug\wf02.Properties.Resources.resources
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\obj\Debug\wf02.csproj.GenerateResource.cache
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\obj\Debug\wf02.csproj.CoreCompileInputs.cache
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\obj\Debug\wf02.exe
+C:\source\personal-project\PersonalTraining\PersonalTraining2\wf02\obj\Debug\wf02.pdb
