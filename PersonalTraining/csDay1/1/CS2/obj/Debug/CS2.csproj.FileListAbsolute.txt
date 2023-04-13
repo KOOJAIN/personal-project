@@ -1,8 +1,0 @@
-C:\source\personal-project\PersonalTraining\csDay1\6269\CS2\bin\Debug\CS2.exe.config
-C:\source\personal-project\PersonalTraining\csDay1\6269\CS2\bin\Debug\CS2.exe
-C:\source\personal-project\PersonalTraining\csDay1\6269\CS2\bin\Debug\CS2.pdb
-C:\source\personal-project\PersonalTraining\csDay1\6269\CS2\obj\Debug\CS2.csproj.AssemblyReference.cache
-C:\source\personal-project\PersonalTraining\csDay1\6269\CS2\obj\Debug\CS2.csproj.SuggestedBindingRedirects.cache
-C:\source\personal-project\PersonalTraining\csDay1\6269\CS2\obj\Debug\CS2.csproj.CoreCompileInputs.cache
-C:\source\personal-project\PersonalTraining\csDay1\6269\CS2\obj\Debug\CS2.exe
-C:\source\personal-project\PersonalTraining\csDay1\6269\CS2\obj\Debug\CS2.pdb
