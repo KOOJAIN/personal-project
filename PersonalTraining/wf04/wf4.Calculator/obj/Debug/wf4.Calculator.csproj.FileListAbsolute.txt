@@ -9,3 +9,14 @@ C:\source\personal-project\PersonalTraining\Calculator\wf4.Calculator\obj\Debug\
 C:\source\personal-project\PersonalTraining\Calculator\wf4.Calculator\obj\Debug\wf4.Calculator.csproj.CoreCompileInputs.cache
 C:\source\personal-project\PersonalTraining\Calculator\wf4.Calculator\obj\Debug\wf4.Calculator.exe
 C:\source\personal-project\PersonalTraining\Calculator\wf4.Calculator\obj\Debug\wf4.Calculator.pdb
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\bin\Debug\wf4.Calculator.exe.config
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\bin\Debug\wf4.Calculator.exe
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\bin\Debug\wf4.Calculator.pdb
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\obj\Debug\wf4.Calculator.csproj.AssemblyReference.cache
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\obj\Debug\wf4.Calculator.csproj.SuggestedBindingRedirects.cache
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\obj\Debug\wf4.Calculator.Form1.resources
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\obj\Debug\wf4.Calculator.Properties.Resources.resources
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\obj\Debug\wf4.Calculator.csproj.GenerateResource.cache
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\obj\Debug\wf4.Calculator.csproj.CoreCompileInputs.cache
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\obj\Debug\wf4.Calculator.exe
+C:\source\personal-project\PersonalTraining\wf04\wf4.Calculator\obj\Debug\wf4.Calculator.pdb
