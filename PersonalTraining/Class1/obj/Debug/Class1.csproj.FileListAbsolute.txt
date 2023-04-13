@@ -1,0 +1,7 @@
+C:\source\personal-project\PersonalTraining\Class1\obj\Debug\Class1.csproj.AssemblyReference.cache
+C:\source\personal-project\PersonalTraining\Class1\obj\Debug\Class1.csproj.CoreCompileInputs.cache
+C:\source\personal-project\PersonalTraining\Class1\bin\Debug\Class1.dll.config
+C:\source\personal-project\PersonalTraining\Class1\bin\Debug\Class1.dll
+C:\source\personal-project\PersonalTraining\Class1\bin\Debug\Class1.pdb
+C:\source\personal-project\PersonalTraining\Class1\obj\Debug\Class1.dll
+C:\source\personal-project\PersonalTraining\Class1\obj\Debug\Class1.pdb

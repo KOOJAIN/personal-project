@@ -1,0 +1,8 @@
+C:\source\personal-project\PersonalTraining\Do1\bin\Debug\Do1.exe.config
+C:\source\personal-project\PersonalTraining\Do1\bin\Debug\Do1.exe
+C:\source\personal-project\PersonalTraining\Do1\bin\Debug\Do1.pdb
+C:\source\personal-project\PersonalTraining\Do1\obj\Debug\Do1.csproj.AssemblyReference.cache
+C:\source\personal-project\PersonalTraining\Do1\obj\Debug\Do1.csproj.SuggestedBindingRedirects.cache
+C:\source\personal-project\PersonalTraining\Do1\obj\Debug\Do1.csproj.CoreCompileInputs.cache
+C:\source\personal-project\PersonalTraining\Do1\obj\Debug\Do1.exe
+C:\source\personal-project\PersonalTraining\Do1\obj\Debug\Do1.pdb
